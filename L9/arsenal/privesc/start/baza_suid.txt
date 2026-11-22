@@ -1,0 +1,10 @@
+# baza_suid.txt - SUID pe o instalare curata
+/usr/bin/sudo
+/usr/bin/passwd
+/usr/bin/chfn
+/usr/bin/chsh
+/usr/bin/newgrp
+/usr/bin/gpasswd
+/bin/su
+/bin/mount
+/bin/umount
