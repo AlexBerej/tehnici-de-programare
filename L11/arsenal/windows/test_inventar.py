@@ -1,4 +1,4 @@
-from arsenal.windows.inventar import Proces
+from inventar import Proces
 
 
 def test_proces_din_temp_e_suspect():
